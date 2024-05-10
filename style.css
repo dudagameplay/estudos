@@ -10,7 +10,7 @@
 }
 
 body {
-    background: url(image.png);
+    background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Work Sans';
 }
